@@ -1,0 +1,6 @@
+# This file lists all the dependencies repositories to download and install.
+# Lines starting with # and empty lines are ignored.
+# NOTE: no trailing slash
+
+https://github.com/Moonstroke/Clog.git
+https://github.com/Moonstroke/CUTE.git
