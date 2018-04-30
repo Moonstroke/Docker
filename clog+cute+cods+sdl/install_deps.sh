@@ -4,6 +4,9 @@
 # given in an external file whose name must be given as first parameter to this
 # script
 
+# Exit immediately if any command fails.
+set -o errexit
+
 
 # This function installs the repo whose remote is given as parameter.
 # Functions declared in round parens are run in their own subshell.
